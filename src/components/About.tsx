@@ -71,7 +71,7 @@ export function About() {
                                             target="_blank"
                                             className="underline hover:text-blue-800"
                                         >
-                                            R. Dr. Antonio Alves Arantes, 157 - Castelo, Santos - SP, 11087-510
+                                           Jardim Castelo, Santos - SP, 11087-510
                                         </a>
                                     </td>
                                 </tr>

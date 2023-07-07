@@ -51,7 +51,7 @@ export function Contact() {
         },
         {
             name: "Santos",
-            description: "Jardim Castelo, Rua Antônio Alves Arantes, 157",
+            description: "Jardim Castelo",
             link: "https://www.google.com/maps/place/R.+Dr.+Antonio+Alves+Arantes,+157+-+Castelo,+Santos+-+SP,+11087-510/@-23.9485151,-46.3808183,3a,75y,258.86h,90t/data=!3m7!1e1!3m5!1s2Zb5pjPB9DqE58X-CPaJ5w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthu mbnail%3Fpanoid%3D2Zb5pjPB9DqE58X-CPaJ5w%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D258.8601%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m7!3m6!1s0x94ce1b5ded467a03:0x58fc5141b4bbe185!8m2!3d-23.948548!4d-46.3810009!10e5!16s%2Fg%2F11csnh9v_7?entry=ttu",
 
             icon: <HiOutlineMapPin className="h-10 w-10" />
